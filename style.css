@@ -1,0 +1,50 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h3{
+    font-size: 21px;
+    color: gray;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
+
+.img-phone {
+    padding: 20px;
+}
+
+.img-landscape {
+    height: 400px;
+}
+
+.icon-phone {
+    margin: 10px;
+    padding: 20px;
+}
